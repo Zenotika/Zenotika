@@ -1,11 +1,5 @@
 <a id="readme-top"></a>
 
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/5233b591-927a-43ba-b26b-8f4b04148796" width="450">
-  </a>
-</p>
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -15,7 +9,13 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
-
+<br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/5233b591-927a-43ba-b26b-8f4b04148796" width="450">
+  </a>
+</p>
+<br>
 This is the official website for the 2024 class of Informatics Engineering / Computer Science. It serves as a digital space where we share our journey, memories, and important updates.
 
 You’ll find:
