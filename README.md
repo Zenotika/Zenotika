@@ -1,5 +1,4 @@
 <a id="readme-top"></a>
-
 ## Table of Contents
 
 - [Introduction](#introduction)
